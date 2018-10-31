@@ -5,3 +5,7 @@ Now I've created feature branch feature A for experimentation w/ remotes and tra
 Making a another commit on feature A for fetch experiment.
 
 A change to experiment with mergetool, trying to create a conflict.
+
+
+This is an edit on branch feature/featureA.
+
