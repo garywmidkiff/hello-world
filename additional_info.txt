@@ -10,3 +10,10 @@ A change to experiment with mergetool, trying to create a conflict.
 
 This is an edit on branch master.
 
+This is an edit on branch feature/featureA.
+Another edit on branch feature/featureA.
+
+
+an edit to Afeat on my pc.
+
+
