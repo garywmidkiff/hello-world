@@ -9,6 +9,8 @@ commit 1 on master
 after i created branch feature B, this is a change on master 
 after i created branch feature B, this is 2nd change on master 
 
+a change to master after finishing the rebase.
+
 ########## end changes on master ##########
 
 *****************
