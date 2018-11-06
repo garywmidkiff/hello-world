@@ -2,5 +2,24 @@
 
 commit 1 on master
 
+
+
+########## begin changes on master ##########
+
 after i created branch feature B, this is a change on master 
 after i created branch feature B, this is 2nd change on master 
+
+########## end changes on master ##########
+
+*****************
+
+########## begin changes on featB ##########
+
+first commit on featB after splitting off from master.
+
+
+########## end changes on featB ##########
+
+
+
+
