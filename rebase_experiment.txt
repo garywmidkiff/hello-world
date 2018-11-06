@@ -3,3 +3,4 @@
 commit 1 on master
 
 after i created branch feature B, this is a change on master 
+after i created branch feature B, this is 2nd change on master 
