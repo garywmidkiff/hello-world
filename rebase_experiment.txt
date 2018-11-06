@@ -16,6 +16,7 @@ after i created branch feature B, this is 2nd change on master
 ########## begin changes on featB ##########
 
 first commit on featB after splitting off from master.
+second commit on featB after splitting off from master.
 
 
 ########## end changes on featB ##########
